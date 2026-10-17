@@ -1,5 +1,5 @@
 [app]
-
+android.archs = arm64-v8a
 # (str) Title of your application
 title = Заметки
 
